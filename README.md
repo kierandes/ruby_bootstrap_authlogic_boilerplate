@@ -1,0 +1,2 @@
+# ruby_bootstrap_authlogic_boilerplate
+ruby_bootstrap_authlogic_boilerplate
